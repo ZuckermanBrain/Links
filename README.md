@@ -11,6 +11,12 @@
  * [Sawtell](https://github.com/SawtellLab)
  * [Shadlen](https://github.com/shadlenlab)
  
+## Scientific Platforms at the Zuckerman Institute
+
+### Magnetic Resonance Imaging
+
+ * [Intelligent MR Framework](https://github.com/imr-framework)
+ 
 ## Cross-Institutional Collaborations
 
  * [International Brain Laboratory](https://github.com/int-brain-lab)
