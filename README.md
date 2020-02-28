@@ -1,4 +1,4 @@
-# Other Zuckerman-Related Organizations and Projects on GitHub
+# Zuckerman-Related Organizations and Projects on GitHub
 
 ## Labs
 
