@@ -3,8 +3,13 @@
 ## Labs
 
  * [Cunningham](https://github.com/cunningham-lab)
+ * [Issa](https://github.com/issalab)
+ * [Kriegeskorte](https://github.com/kriegeskorte-lab)
+ * [Losonczy](https://github.com/losonczylab)
  * [Paninski](https://github.com/paninski-lab)
  * [Salzman](https://github.com/cds-lab)
+ * [Sawtell](https://github.com/SawtellLab)
+ * [Shadlen](https://github.com/shadlenlab)
  
 ## Cross-Institutional Collaborations
 
