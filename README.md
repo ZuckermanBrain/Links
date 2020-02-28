@@ -1,6 +1,6 @@
-# Zuckerman-Related Organizations and Projects on GitHub
+# Zuckerman Institute-Related Organizations and Projects on GitHub
 
-## Labs
+## Zuckerman Institute Labs
 
  * [Cunningham](https://github.com/cunningham-lab)
  * [Issa](https://github.com/issalab)
