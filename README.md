@@ -1,4 +1,4 @@
-# Zuckerman Institute-Related Links
+# Columbia University Zuckerman Institute: Related Links
 
 ## Organizations and Projects on GitHub
 
