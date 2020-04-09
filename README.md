@@ -23,6 +23,10 @@
 
  * [International Brain Laboratory](https://github.com/int-brain-lab)
  
+### Miscellaneous
+
+ * [Columbia Neuropythonistas](https://github.com/Columbia-Neuropythonistas)
+ 
 ## Documentation for Zuckerman Research Computing Services
 
 Links to various pieces of documentation written by research computing for Zuckerman researchers.
